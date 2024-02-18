@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FemishShoppingAPI", "FemishShoppingAPI\FemishShoppingAPI.csproj", "{A989FA24-B05B-4A4A-8773-38405683045D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A989FA24-B05B-4A4A-8773-38405683045D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A989FA24-B05B-4A4A-8773-38405683045D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A989FA24-B05B-4A4A-8773-38405683045D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A989FA24-B05B-4A4A-8773-38405683045D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C4AC90B-2FDD-435F-8CCA-F824CE51A46D}
+	EndGlobalSection
+EndGlobal
